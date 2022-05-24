@@ -1,0 +1,1 @@
+Code written while reading [An Introduction to Programming in Go, by Caleb Doxsey](https://www.golang-book.com/books/intro) 📕
